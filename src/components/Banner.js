@@ -29,8 +29,8 @@ function Banner() {
                     </div>
                     
                     <div className="banner__socialMedia">
-                        <a className="social_icon_linkedin" href="https://linkedin.com/in/shramish-kafle-759571198" target="_blank"><span ><i className="fa fa-linkedin" aria-hidden="true"></i></span></a>
-                        <a className="social_icon_github" href="https://github.com/shramish2057" target="_blank"><span><i className="fa fa-github" aria-hidden="true"></i></span></a>
+                        <a className="social_icon_linkedin" href="https://linkedin.com/in/shramish-kafle-759571198" target="blank" rel='noreferrer'><span ><i className="fa fa-linkedin" aria-hidden="true"></i></span></a>
+                        <a className="social_icon_github" href="https://github.com/shramish2057" target="_blank" rel='noreferrer'><span><i className="fa fa-github" aria-hidden="true"></i></span></a>
                     </div>
 
                 </div>
